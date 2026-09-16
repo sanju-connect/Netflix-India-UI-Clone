@@ -5,6 +5,8 @@ A front-end clone of the Netflix India landing page, built with plain HTML and C
 ## 🚀 Demo
 
 ![Netflix Clone Demo](assets/demo_video.gif)
+
+
 Open `index.html` in your browser to view the page locally.
 
 ## ✨ Features
